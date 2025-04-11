@@ -1,0 +1,13 @@
+# Ignore virtual environment
+Agentvenv/
+
+# Ignore test data 
+Ai_recruter_agency/agents/test_data
+# Ignore environment variables
+.env
+
+# Other common ignores (optional)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
