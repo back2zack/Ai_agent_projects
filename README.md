@@ -6,6 +6,3 @@ This repository is dedicated to experimenting with various agent-based architect
 
 - **AI Recruiter Agency**: An experimental project focusing on automating recruitment workflows using specialized agents.
 
-## License
-
-This project is licensed under the MIT License.
